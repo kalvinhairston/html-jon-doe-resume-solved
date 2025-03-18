@@ -39,11 +39,11 @@ This assignment should prove that a student is able to:
 - [ x] Fork the project to your github account
 - [ x] Clone the project to your computer
 - [ x] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
+- [ x] Initialize playwright and install project packages
   - [ x] Use `npm i` to install packages
   - [ x] Use `npm run browser-install` to install the browser environment for testing 
 - [ x] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
+- [x ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
   - [x ] Use `npm run test` to run all tests in the terminal
   - [x ] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
   - [ x] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
@@ -52,7 +52,7 @@ This assignment should prove that a student is able to:
 - [ x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [x ] The code MUST be formatted with Prettier
 - [ x] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [x ] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
@@ -65,7 +65,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [ x] Set the document title to be "Jon Doe's resume".
 - [ x] Set the page heading to be "Jon Doe"
 - [ x] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
-- [ ] Add an image with required and important attributes
+- [ x] Add an image with required and important attributes
   - [x ] The image path should be `./assets/avatars/fake_person.jpg`. This image is included into the project already.
   - [ x] The image alternative text should match the page title.
 - [x ] Add a section heading with the content of "About Me".
